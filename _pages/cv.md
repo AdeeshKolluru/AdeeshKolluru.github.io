@@ -11,49 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B. Tech in Chemical Engineering, IIT Delhi, 2020 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* B. Tech Project
+  * Supervisor: [Prof. Anurag Rathore](http://www.biotechcmz.com/profile), IIT Delhi
+  * Efficient control of aeration rate in 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Summer 2018 and 2019: Research Assistant
+  * Supervisor: [Prof. Faye McNeill](https://cheme.columbia.edu/faculty/v-mcneill), Columbia University
+  * In 2018 - Built a model to predict emission of Delhi and used it to estimate the aerosol concentrations. 
+  * In 2019 - Implemented machine learning models to calibrate air quality sensors.
+
+* Fall 2018: Research Assistant
+  * Supervisor: [Prof. Duane Loh](https://cbis.nus.edu.sg/duane-loh/), National University of Singapore
+  * Analysed autoencoder's ability to learn representations with the help of self generated images using random walks. 
   
-Talks
+Computations and Mathematical Skills
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* Deep Learning
+  * Maths - Linear Algebra, Probability, Statistics, Probabilistic Graphical Models, Numerical Methods
+  * Implementation - PyTorch, Keras, Tensorflow, SQL
+  * Experiences - Generative Models, Graph Neural Nets, Computer Vision
+* MD Simulation - Gromacs
+* CFD - Ansys, Fluent
+
+Leadership and Extra-Currics
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Seved as Sports Secretary of Board for Sport Activities, IIT Delhi
+* I had been a part of Waterpolo team of IIT Delhi and enjoy playing various other sports.
