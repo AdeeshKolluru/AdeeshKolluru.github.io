@@ -29,7 +29,7 @@ Work experience
   * Supervisor: [Prof. Duane Loh](https://cbis.nus.edu.sg/duane-loh/), National University of Singapore
   * Analysed autoencoder's ability to learn representations with the help of self generated images using random walks. 
   
-Computations and Mathematical Skills
+Computational and Mathematical Skills
 ======
 * Deep Learning
   * Maths - Linear Algebra, Probability, Statistics, Probabilistic Graphical Models, Numerical Methods
