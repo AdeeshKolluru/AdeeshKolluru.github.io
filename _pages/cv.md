@@ -22,7 +22,7 @@ Work experience
 
 * Summer 2018 and 2019: Research Assistant
   * Supervisor: [Prof. Faye McNeill](https://cheme.columbia.edu/faculty/v-mcneill), Columbia University
-  * In 2018 - Built a model to predict emission of Delhi and used it to estimate the aerosol concentrations. 
+  * In 2018 - Built a model to predict emissions of Delhi and used it to estimate the aerosol concentrations. 
   * In 2019 - Implemented machine learning models to calibrate air quality sensors.
 
 * Fall 2018: Research Assistant
