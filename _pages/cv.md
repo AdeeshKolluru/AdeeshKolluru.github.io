@@ -18,7 +18,7 @@ Work experience
 
 * B. Tech Project
   * Supervisor: [Prof. Anurag Rathore](http://www.biotechcmz.com/profile), IIT Delhi
-  * Efficient control of aeration rate in 
+  * Efficient control of aeration rate for mammalian cell line using machine learning technique
 
 * Summer 2018 and 2019: Research Assistant
   * Supervisor: [Prof. Faye McNeill](https://cheme.columbia.edu/faculty/v-mcneill), Columbia University
@@ -41,4 +41,4 @@ Computational and Mathematical Skills
 Leadership and Extra-Currics
 ======
 * Seved as Sports Secretary of Board for Sport Activities, IIT Delhi
-* I had been a part of Waterpolo team of IIT Delhi and enjoy playing various other sports.
+* Had been a part of Waterpolo Team of IIT Delhi and enjoy playing various other sports.
