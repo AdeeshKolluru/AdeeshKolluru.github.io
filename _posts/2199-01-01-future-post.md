@@ -1,6 +1,6 @@
 ---
 title: 'Future Blog Post'
-date: Soon
+date: 
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
