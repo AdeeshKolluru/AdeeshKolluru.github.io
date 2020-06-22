@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Undergraduate in Chemical Engineering at IIT Delhi. My research experiences have been broadly related to computational aspects of Chemical Engineering, having completed projects related to Deep Learning, Numerical Modeling, MD Simulation and CFD. 
+I am a Senior Undergraduate in Chemical Engineering at IIT Delhi. My research experiences have been broadly related to computational aspects of Chemical Engineering, having completed projects in Deep Learning, Numerical Modeling, MD Simulation and CFD applications. 
 
 I have worked on numerous projects with [Prof. Anurag Rathore](http://www.biotechcmz.com/biosketch) at IIT Delhi in the field of modeling bioprocesses using CFD and Deep Learning. I have also been fortunate to do research internships with [Prof. Faye McNeill](http://mcneill-lab.org/v-faye-mcneill/), Columbia University and [Prof. Duane Loh](http://blog.nus.edu.sg/duaneloh/), National University of Singapore developing Deep Learning models for Air Quality and Protein Motif identification applications respectively.
 
