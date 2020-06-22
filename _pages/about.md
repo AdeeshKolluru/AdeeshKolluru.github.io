@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Adeesh Kolluru"
-excerpt: "Adeesh Kolluru"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
