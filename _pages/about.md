@@ -16,7 +16,7 @@ My passion for solving complex problems and impacting lives has motivated me to 
 
 Apart from research and academics I have been actively involved in various sports and cultural activies at IIT Delhi. I had been a part of Waterpolo Team of IIT Delhi and a Representative for Debating Club. I was also elected as the Sports Secretary of Board for Sports Activities, IIT Delhi. Some other interests include reading non-fiction novels (mind, human behaviour, human body, economics), watching sci-fi movies/TV shows and listening to songs.   
 
-If you want to know more about me or my projects, feel free to contact me at [lastname].[firstname]@gmail.com
+If you want to know more about me or my projects, feel free to contact me at kolluru.adeesh@gmail.com
 
 
 
