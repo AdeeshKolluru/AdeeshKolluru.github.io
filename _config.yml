@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Adeesh Kolluru"
 title_separator          : "-"
 name                     : &name "Adeesh Kolluru"
-description              : &description "Senior Undergraduate at IIT Delhi"
+description              : &description "PhD student at CMU"
 url                      : https://AdeeshKolluru.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AdeeshKolluru.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Adeesh Kolluru"
   avatar           : "edited_cv1.jpg"
-  bio              : "Senior Undergraduate at IIT Delhi"
-  location         : "New Delhi, India"
+  bio              : "PhD student at CMU"
+  location         : "Pittsburgh, PA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "akolluru<at>andrew.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
