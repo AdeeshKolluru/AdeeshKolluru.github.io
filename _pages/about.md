@@ -18,6 +18,6 @@ Apart from research and academics I had been actively involved in various sports
 
 - Jun 2021: SpinConv paper is up on arxiv [Link](https://arxiv.org/pdf/2106.09575v1.pdf)
 - Jun 2021: [Open Catalyst Challenge](https://opencatalystproject.org/challenge.html) announced for Neurips 2021
-
+- Jun 2021: Excited to be selected for [LOGML Summer School](https://www.logml.ai/)!
 
 
