@@ -14,9 +14,10 @@ My past research experiences have been broadly related to computational aspects 
 
 Apart from research and academics I had been actively involved in various sports and cultural activies at IIT Delhi. Played Waterpolo for the college team and was part of Debating Club. In my free time I read non-fiction novels (mind, human behaviour, human body, economics), watch a lot of movies, TV shows, documentaries.   
 
-##Recent News
-Jun 2021: SpinConv paper is up on arxiv [Link](https://arxiv.org/pdf/2106.09575v1.pdf)
-Jun 2021: [Open Catalyst Challenge](https://opencatalystproject.org/challenge.html) announced for Neurips 2021
+## Recent News:
+
+- Jun 2021: SpinConv paper is up on arxiv [Link](https://arxiv.org/pdf/2106.09575v1.pdf)
+- Jun 2021: [Open Catalyst Challenge](https://opencatalystproject.org/challenge.html) announced for Neurips 2021
 
 
 
