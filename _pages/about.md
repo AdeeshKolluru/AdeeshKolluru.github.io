@@ -14,7 +14,7 @@ My undergraduate research experiences have been broadly related to computational
 
 Apart from research and academics I had been actively involved in various sports and cultural activies at IIT Delhi. Played Waterpolo for the college team and was part of Debating Club. In my free time I read non-fiction novels (mind, human behaviour, human body, economics), watch a lot of movies/TV shows/documentaries and enjoy swimming, playing chess (feel free to send me a challenge on [lichess](https://lichess.org/@/adeeshk) or [chess.com](https://www.chess.com/member/adeeshk)). 
 
-If you have questions about my research or want to collaborate on anything, feel free to reach me out at akolluru{at}andrew.cmu.edu
+If you have questions about my research or want to collaborate on anything, feel free to reach out to me at akolluru{at}andrew.cmu.edu
 
 ## Recent News
 
