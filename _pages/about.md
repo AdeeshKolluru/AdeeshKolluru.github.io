@@ -19,7 +19,7 @@ If you have questions about my research or want to collaborate on anything, feel
 ## Recent News
 
 - *Feb 2022*: Received the *Phillips and Huang Family Fellowship in Energy* from CMU College of Engineering
-- *Nov 2021*: Gave a talk at **AIChE 2021** on *Transfer Learning with Large Scale GNNs on OC20 Dataset*
+- *Nov 2021*: Gave a talk at **AIChE 2021** on *Transfer Learning with Large Scale GNNs on Catalyst Datasets*
 - *Jun 2021*: SpinConv paper is up on arxiv [Link](https://arxiv.org/pdf/2106.09575v1.pdf)
 - *Jun 2021*: [Open Catalyst Challenge](https://opencatalystproject.org/challenge.html) announced for NeurIPS 2021
 - *Jun 2021*: Excited to be selected for [LOGML Summer School](https://www.logml.ai/)!
