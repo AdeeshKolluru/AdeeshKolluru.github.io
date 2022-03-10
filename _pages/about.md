@@ -18,11 +18,11 @@ If you have questions about my research or want to collaborate on anything, feel
 
 ## Recent News
 
-- *Feb 2022*: <font size="2"> Received the *Phillips and Huang Family Fellowship in Energy* from CMU College of Engineering </font>
-- *Jan 2022*: <font size="2"> [OCP Tutorial](https://colab.research.google.com/drive/1oGZcrakB4Pbj8Xq74lSvcRDUHw9L-Dh5?usp=sharing) as part of Climate Change AI Workshop at NeurIPS </font>
-- *Nov 2021*: <font size="2"> Gave a talk at *AIChE 2021* on *Transfer Learning with Large Scale GNNs on Catalyst Datasets* </font>
-- *Jun 2021*: <font size="2"> SpinConv paper is up on arxiv [Link](https://arxiv.org/pdf/2106.09575v1.pdf) </font>
-- *Jun 2021*: <font size="2"> [Open Catalyst Challenge](https://opencatalystproject.org/challenge.html) announced for NeurIPS 2021 </font>
-- *Jun 2021*: <font size="2"> Excited to be selected for [LOGML Summer School](https://www.logml.ai/)! </font>
+- *Feb 2022*: Received the *Phillips and Huang Family Fellowship in Energy* from CMU College of Engineering 
+- *Jan 2022*: [OCP Tutorial](https://colab.research.google.com/drive/1oGZcrakB4Pbj8Xq74lSvcRDUHw9L-Dh5?usp=sharing) as part of Climate Change AI Workshop at NeurIPS 
+- *Nov 2021*: Gave a talk at *AIChE 2021* on *Transfer Learning with Large Scale GNNs on Catalyst Datasets*
+- *Jun 2021*: SpinConv paper is up on arxiv [Link](https://arxiv.org/pdf/2106.09575v1.pdf) </font>
+- *Jun 2021*: [Open Catalyst Challenge](https://opencatalystproject.org/challenge.html) announced for NeurIPS 2021 </font>
+- *Jun 2021*: Excited to be selected for [LOGML Summer School](https://www.logml.ai/)! </font>
 
 
