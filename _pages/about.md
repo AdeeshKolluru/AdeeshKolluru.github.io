@@ -17,7 +17,7 @@ Apart from research and academics, I had been actively involved in various sport
 If you have questions about my research or want to collaborate on anything, feel free to reach out to me via email.
 
 ## Recent News
-
+- *Apr 2022*: [TAAG](https://aip.scitation.org/doi/abs/10.1063/5.0088019) paper is published! 
 - *Mar 2022*: Will be interning at [Meta AI](https://ai.facebook.com/research/impact/open-catalyst?utm_source=twitter&utm_medium=organic_social&utm_campaign=impact&utm_content=open-catalyst_people) this summer!
 - *Feb 2022*: Received *Phillips and Huang Family Fellowship in Energy* [[press](https://www.cheme.engineering.cmu.edu/news/2022/02/03-presidential-and-graduate-fellowships.html)] 
 - *Jan 2022*: [OCP Tutorial](https://colab.research.google.com/drive/1oGZcrakB4Pbj8Xq74lSvcRDUHw9L-Dh5?usp=sharing) as part of Climate Change AI Workshop at NeurIPS 
