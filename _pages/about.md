@@ -17,6 +17,7 @@ Apart from research and academics, I had been actively involved in various sport
 If you have questions about my research or want to collaborate on anything, feel free to reach out to me via email.
 
 ## Recent News
+= *Jun 2022*: [Spherical Channel Network (SCN)](https://arxiv.org/pdf/2206.14331.pdf) paper is up!
 - *Jun 2022*: [OC22 Dataset for oxide electrocatalysis](https://arxiv.org/pdf/2206.08917.pdf) is up!
 - *Jun 2022*: [Open Catalyst Challenge](https://opencatalystproject.org/challenge.html) is announced for NeurIPS 2022!
 - *Jun 2022*: A [perspective](https://arxiv.org/pdf/2206.02005.pdf) explaining challenges with training ML models for materials is published! 
