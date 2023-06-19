@@ -2,10 +2,10 @@
 main: 
     
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=7tsyQ8sAAAAJ&hl=en&oi=ao
     
   - title: "CV"
-    url: /files/Adeesh_Kolluru_CV.pdf
+    url: /files/AdeeshKolluru_CV.pdf
     
     #- title: "Blog Posts"
     #url: /year-archive/
