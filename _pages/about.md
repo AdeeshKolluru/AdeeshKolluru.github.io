@@ -27,6 +27,7 @@ Apart from research and academics, I was involved in various sports and cultural
 If you have questions about my research or want to collaborate on anything, feel free to reach out to me via email.
 
 ## Recent News
+- *Oct 2023*: Our Joint Multi-domain Pretraining [JMP](https://arxiv.org/abs/2310.16802) across 3D atomic datasets is out.
 - *May 2023*: Will be interning with early-stage startup Orbital Materials.
 - *Aug 2022*: Mentoring at [*Tackling Climate Change with ML*](https://www.climatechange.ai/events/neurips2022) workshop, NeurIPS'22. 
 - *Jun 2022*: [Spherical Channel Network (SCN)](https://arxiv.org/pdf/2206.14331.pdf) paper is up.
