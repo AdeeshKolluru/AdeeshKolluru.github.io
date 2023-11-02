@@ -11,7 +11,7 @@ redirect_from:
 I am a fourth-year Ph.D. student advised by [John Kitchin](https://engineering.cmu.edu/directory/bios/kitchin-john.html) (previously by [Zachary Ulissi](https://ulissigroup.cheme.cmu.edu/bio/)) at Carnegie Mellon University. My work broadly focuses on building efficient machine learning methods and frameworks to accelerate molecular and material discovery. As part of my Ph.D., I have been collaboratively working on the [Open Catalyst Project](https://opencatalystproject.org/) with [Meta AI](https://ai.facebook.com/). 
 
 Overall, my research has contributed towards -
-- developing an atomic foundation model that works across the domains of molecules, materials, and proteins.
+- developing an atomic foundation model that works across the domains of molecules, materials, and proteins. ([JMP](https://arxiv.org/abs/2310.16802))
 - developing novel state-of-the-art graph neural networks for large-scale molecular and material datasets. ([SpinConv](https://arxiv.org/abs/2106.09575), [SCN](https://proceedings.neurips.cc/paper_files/paper/2022/hash/3501bea1ac61fedbaaff2f88e5fa9447-Abstract-Conference.html))
 - developing novel transfer learning method that helps with transfer across molecular domains. ([TAAG](https://pubs.aip.org/aip/jcp/article/156/18/184702/2841241))
 - developing large-scale catalyst datasets focusing on energy applications. ([OC22 dataset](https://pubs.acs.org/doi/full/10.1021/acscatal.2c05426)).
