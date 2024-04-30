@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**${\color{red}New:}$**  I'm planning to graduate in Fall 2024 and looking for full-time opportunities. Reach out to me if you have any relevant positions!
+<span style="color:red">New:</span>  I'm planning to graduate in Fall 2024 and looking for full-time opportunities. Reach out to me if you have any relevant positions!
 
 I am a fourth-year Ph.D. student advised by [John Kitchin](https://engineering.cmu.edu/directory/bios/kitchin-john.html) (previously by [Zachary Ulissi](https://ulissigroup.cheme.cmu.edu/bio/)) at Carnegie Mellon University. My work broadly focuses on building efficient machine learning methods and frameworks to accelerate molecular and material discovery. As part of my Ph.D., I have been collaboratively working on the [Open Catalyst Project](https://opencatalystproject.org/) with [Meta AI](https://ai.facebook.com/). 
 
