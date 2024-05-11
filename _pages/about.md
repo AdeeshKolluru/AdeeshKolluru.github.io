@@ -15,14 +15,14 @@ I am a fourth-year Ph.D. student advised by [John Kitchin](https://engineering.c
 ## Research Contributions 
 
 ### Deep Learning - Diffusion models, Graph Neural Networks, Multi-task Learning, Transfer Learning 
-- developing diffusion framework for catalysis. ([AdsorbDiff](https://arxiv.org/abs/2405.03962))
-- developing an atomic foundation model that works across the domains of molecules, materials, and proteins. ([JMP](https://arxiv.org/abs/2310.16802))
-- developing novel state-of-the-art graph neural networks for large-scale molecular and material datasets. ([SpinConv](https://arxiv.org/abs/2106.09575), [SCN](https://proceedings.neurips.cc/paper_files/paper/2022/hash/3501bea1ac61fedbaaff2f88e5fa9447-Abstract-Conference.html))
-- developing novel transfer learning method that helps with transfer across molecular domains. ([TAAG](https://pubs.aip.org/aip/jcp/article/156/18/184702/2841241))
+- developing diffusion framework for catalysis. [AdsorbDiff](https://arxiv.org/abs/2405.03962) [ICML 2024]
+- developing an atomic foundation model that works across the domains of molecules, materials, and proteins. [JMP](https://nima.sh/jmp/) [ICLR 2024]
+- developing novel sota graph neural networks for large-scale molecular and material datasets. [SpinConv](https://arxiv.org/abs/2106.09575), [SCN](https://proceedings.neurips.cc/paper_files/paper/2022/hash/3501bea1ac61fedbaaff2f88e5fa9447-Abstract-Conference.html) [NeurIPS 2022]
+- developing novel transfer learning method that helps with transfer across molecular domains. [TAAG](https://pubs.aip.org/aip/jcp/article/156/18/184702/2841241) [JCP 2022]
 
 ### Catalysis - DFT dataset, analysis
-- developing large-scale catalyst datasets focusing on energy applications. ([OC22 dataset](https://pubs.acs.org/doi/full/10.1021/acscatal.2c05426)).
-- analyzing important differences and challenges in training models for large-scale datasets. ([OCP Perspective](https://pubs.acs.org/doi/full/10.1021/acscatal.2c02291))
+- developing large-scale catalyst datasets focusing on energy applications. [OC22 dataset](https://pubs.acs.org/doi/full/10.1021/acscatal.2c05426) [ACS Catalysis 2023].
+- analyzing important differences and challenges in training models for large-scale datasets. [OC Challenges](https://pubs.acs.org/doi/full/10.1021/acscatal.2c02291) [ACS Catalysis 2022]
 
 ## Industrial Internships
 I've been fortunate to do internships across big tech, early-state startup, and core industry.
