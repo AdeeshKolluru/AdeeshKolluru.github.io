@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-_<span style="color:red">New:</span>  I'm planning to graduate in Fall 2024 and looking for full-time opportunities. Reach out to me if you have any relevant positions!_
+[comment]: <> (_<span style="color:red">New:</span>  I'm planning to graduate in Fall 2024 and looking for full-time opportunities. Reach out to me if you have any relevant positions!_)
 
-I am a fourth-year Ph.D. student advised by [John Kitchin](https://engineering.cmu.edu/directory/bios/kitchin-john.html) (previously by [Zachary Ulissi](https://ulissigroup.cheme.cmu.edu/bio/)) at Carnegie Mellon University. My work broadly focuses on building efficient machine learning methods and frameworks to accelerate molecular and material discovery. As part of my Ph.D., I have been collaboratively working on the [Open Catalyst Project](https://opencatalystproject.org/) with [Meta AI](https://ai.facebook.com/). 
+I am a Ph.D. student advised by [John Kitchin](https://engineering.cmu.edu/directory/bios/kitchin-john.html) (previously by [Zachary Ulissi](https://ulissigroup.cheme.cmu.edu/bio/)) at Carnegie Mellon University. My work broadly focuses on building efficient machine learning methods and frameworks to accelerate molecular and material discovery. As part of my Ph.D., I have been collaboratively working on the [Open Catalyst Project](https://opencatalystproject.org/) with [Meta AI](https://ai.facebook.com/). 
 
 ## Research Contributions 
 
@@ -22,15 +22,17 @@ I am a fourth-year Ph.D. student advised by [John Kitchin](https://engineering.c
 
 ### Catalysis - DFT dataset, analysis
 - developing large-scale catalyst datasets focusing on energy applications. [OC22 dataset](https://pubs.acs.org/doi/full/10.1021/acscatal.2c05426) [ACS Catalysis 2023].
-- analyzing important differences and challenges in training models for large-scale datasets. [OC Challenges](https://pubs.acs.org/doi/full/10.1021/acscatal.2c02291) [ACS Catalysis 2022]
+- analyzing errors, metrics, and approaches in training models for large-scale datasets. [OC Challenges](https://pubs.acs.org/doi/full/10.1021/acscatal.2c02291) [ACS Catalysis 2022], [Error Imbalance in OC20](https://pubs.rsc.org/en/content/articlehtml/2024/cy/d4cy00615a) [Catal. Sci. Technol. 2024]
 
-## Industrial Internships
-I've been fortunate to do internships across big tech, early-state startup, and core industry.
-- Summer'24 - I'll be interning with Samsung Semiconductors as an ML Research Scientist focusing on discovering next gen batteries and semiconductors with Gen AI. 
-- Summer'23 - I interned with an early-stage startup, [Orbital Materials](https://orbitalmaterials.com/) where I worked with the founding team ([Mark Neumann](https://www.linkedin.com/in/mark-neumann-aa3388ab/?challengeId=AQFZXrjLLKFy8wAAAYpGlWSGVKyRmaeefyHNAUHeFwfQxApRNsBOXR6PqoF6GCyTRmGU_241baGpb1xSJmUBBF5O2xseCEYcfA&submissionId=bc09e7f9-842b-8017-d8e2-7b76bdf22b45&challengeSource=AgEqDdQJZNVZ0gAAAYpGlZpCX2gIjhlmyc-lp9n0OFJ66IAhV8u6IGzqYjhRUjk&challegeType=AgFVRamHX2pW4QAAAYpGlZpFJXCnZ2raYNnHDmknUowFxFo9PBNYG9M&memberId=AgFsiwykqFBfDwAAAYpGlZpJ09Gcgz9AAPhKOKWoaq9VQVM&recognizeDevice=AgEN7E6709ej6wAAAYpGlZpMojgPu1MYCZaXjV_QnRQ7n42Vbrp6), [Jonathan Godwin](https://uk.linkedin.com/in/jonathan-godwin-12907638?original_referer=https%3A%2F%2Fwww.google.com%2F)) on developing a generative foundation model for material design focusing on the applications of porous materials. Additionally, learned about expts., startups, business, and more end-to-end about this field.
+## Industrial Experience
+I've been fortunate to do an _internship_ across big tech, early-stage startup, and core industry.
+- **Samsung** (Summer'23)- I interned with [Eric Wang](https://www.linkedin.com/in/yan-eric-wang-68226124) at the Advanced Materials Lab of Samsung Semiconductors as an ML Research Scientist focusing on end-to-end discovery of solid-state battery electrolyte materials - from generative models to experimental validation.
+  
+   _Key industrial takeaway_: Problems in batteries and semi-conductor material synthesis
+- **Orbital Materials** (Summer'23) - I interned with an early-stage startup, [Orbital Materials](https://orbitalmaterials.com/) where I worked with the founding team ([Mark Neumann](https://www.linkedin.com/in/mark-neumann-aa3388ab/?challengeId=AQFZXrjLLKFy8wAAAYpGlWSGVKyRmaeefyHNAUHeFwfQxApRNsBOXR6PqoF6GCyTRmGU_241baGpb1xSJmUBBF5O2xseCEYcfA&submissionId=bc09e7f9-842b-8017-d8e2-7b76bdf22b45&challengeSource=AgEqDdQJZNVZ0gAAAYpGlZpCX2gIjhlmyc-lp9n0OFJ66IAhV8u6IGzqYjhRUjk&challegeType=AgFVRamHX2pW4QAAAYpGlZpFJXCnZ2raYNnHDmknUowFxFo9PBNYG9M&memberId=AgFsiwykqFBfDwAAAYpGlZpJ09Gcgz9AAPhKOKWoaq9VQVM&recognizeDevice=AgEN7E6709ej6wAAAYpGlZpMojgPu1MYCZaXjV_QnRQ7n42Vbrp6), [Jonathan Godwin](https://uk.linkedin.com/in/jonathan-godwin-12907638?original_referer=https%3A%2F%2Fwww.google.com%2F)) on developing a generative foundation model for material design focusing on the applications of porous materials. Additionally, learned about expts., startups, business, and more end-to-end about this field.
   
   _Key industrial takeaway_: ML engineering, merging ML with expts, learn about startups, business, and VCs.
-- Summer'22 - I interned with [Meta AI](https://ai.meta.com/) and worked with [Brandon Wood](https://www.linkedin.com/in/brandon-wood-b5732852), [Larry Zitnick](http://larryzitnick.org/). I primarily worked on conceptualizing and developing an atomic foundation model that works across the domains of molecules, materials, and proteins. Additionally, contributed to developing the [Open Catalyst 2022 dataset](https://pubs.acs.org/doi/abs/10.1021/acscatal.2c05426), [SCN](https://proceedings.neurips.cc/paper_files/paper/2022/hash/3501bea1ac61fedbaaff2f88e5fa9447-Abstract-Conference.html) model.
+- **Meta AI** (Summer'22) - I interned with [Meta AI](https://ai.meta.com/) and worked with [Brandon Wood](https://www.linkedin.com/in/brandon-wood-b5732852), [Larry Zitnick](http://larryzitnick.org/). I primarily worked on conceptualizing and developing an atomic foundation model that works across the domains of molecules, materials, and proteins. Additionally, contributed to developing the [Open Catalyst 2022 dataset](https://pubs.acs.org/doi/abs/10.1021/acscatal.2c05426), [SCN](https://proceedings.neurips.cc/paper_files/paper/2022/hash/3501bea1ac61fedbaaff2f88e5fa9447-Abstract-Conference.html) model.
   
   _Key industrial takeaway_: Training AI models at large scale, ML engineering.
 
